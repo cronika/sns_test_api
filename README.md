@@ -1,1 +1,1 @@
-# sns_test_api
+# sns_api
